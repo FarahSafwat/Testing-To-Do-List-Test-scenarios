@@ -1,5 +1,7 @@
 # 🧪 To-Do List CRUD Testing Project
 
+The Linke -> https://todolist.james.am/#/ 
+
 ## 📘 Overview
 This project focuses on testing a **To-Do List web application** using the **CRUD testing approach** —  
 **Create, Read, Update, and Delete**.  
@@ -37,7 +39,7 @@ Focus: Removing tasks and verifying related behaviors.
 ---
 
 ## 🧠 Tools Used
-- **Trello** → Test design and scenario tracking  
+- **Trello** → Test design and scenario tracking  (https://trello.com/invite/b/68f4f5d34c5425e7118c1447/ATTIb08a8f454bf5b9c74aaf6785377ca3fd0AD75340/to-do-list)
 - **Google Chrome** → Manual execution and validation  
 - **GitHub** → Documentation and portfolio hosting  
 
